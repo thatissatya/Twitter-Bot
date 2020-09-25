@@ -16,7 +16,7 @@ not accessible for privacy reasons. To identify bots, I set up three basic areas
 <h2>Advantage:</h2>
 <li>a healthy information exchange ecosystem.</li>
 <li>Avoiding narratives that could be false and misleading.</li>
-</h2>Future Scope:</h2>
+<h2>Future Scope:</h2>
 <li>Looking to Automate the whole task, we need to just feed the twitter account API.</li>
 
 
