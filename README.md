@@ -1,25 +1,25 @@
-![Tocsin](https://github.com/mahesh2996/Project-Work/blob/master/toc-osoc/IMG/Capture.PNG)
 
 <h2>Inspiration:</h2>
-<li>Item During the Drowsiness ,user of the computer may not shut down the system. It causes battery drainage and reduce the performance of system in long run. Automatic sleep mode is not possible during the processing of multimedia files in personal computer. To overcome this problem, we create the Tocsin.</li>
+<li>The dominance of human users as the primary generators of Internet traffic is coming to an end. In 2016, bots generated more Internet traffic than humans. A bot is a piece of software that completes automated tasks over the Internet. On social media, the prevalence of bots is ubiquitous. By some estimates, nearly 48 million Twitter accounts are automated. The ability to detect bot accounts on social media sites like Twitter is important for a healthy information exchange ecosystem.</li>
 
 <h2>Problem description:</h2>
-<li>Item During the time of media file processing (Streaming video on-line / off-line ) the user may fall asleep, But the processing of media file still continue.If the media file run more then 2 hours continuously it causes heavy battery consumption. </li>
+<li>Identifying problematic bots will allow Twitter users to be shielded by groups that aim to affect the perception of how entities and events are actually being perceived by
+Twitter’s user base. This can lead to users having a skewed perception of the events around them. When working together in large clusters, bots have the ability to push
+narratives that could be false and misleading.  Studies suggest that in the months leading up to the 2016 U.S. Presidential Election, a fifth of all tweets on Twitter that were related to the election came from a legion of bot accounts. Taking up a large percentage of the political discourse in a well-travelled setting, these bots had a large effect on the Presidential Election by refracting the natural conversations of the issues and events surrounding it.</li>
 
 <h2>Solution:</h2>
-<li>Item Tocsin is upgraded version of drowsiness detection model .This helps the user to find the Last active session in a multimedia file and improve the system performance by reducing battery consumption.</li>
+<li>On Twitter, information can be gained about a user from their personal account information, tweets, likes, retweets, and direct messages. Users’ direct messages are
+not accessible for privacy reasons. To identify bots, I set up three basic areas for analysis: profile, account activity, and text mining..</li>
 <h2>Working progress:</h2>
-<li> user need to activate the tocsin before going to streaming media files</li>
-<li>Item If user get drowsiness or not watching the screen, Tocsin gives alarm in interval basis .(for example it will give alarm if user not focus on the system screen more then 3 Min.</li>
-<li>Item This loop going to one more time.if user eye not detected, it will take screen shot of the current screen in user specific folder.and shut-down the system.</li>
+<li> We need to Gather the twitter Accounts information </li>
+<li>We the Account Description of a twitter account has more property matching with one of the bot it is will put a level on that account as 1 else 0.</li>
 <h2>Advantage:</h2>
-<li>Increase the system performance in long run</li>
-<li>Help the user to find last activate section in multimedia file by storing the screen shot of multimedia file.</li>
-<li>user friendly application interface which provide the easy customization to user.</li>
+<li>a healthy information exchange ecosystem.</li>
+<li>Avoiding narratives that could be false and misleading.</li>
 </h2>Future Scope:</h2>
-<li>Tocsin 1.o is window based standalone application.in future model(Tocsin 2.o) will come up with support of Android application.</li>
+<li>Looking to Automate the whole task, we need to just feed the twitter account API.</li>
 
 
 <h2>Limitations:</h2>
-<li>Tocsin only work in day time. During the night time, Tocsin may fail because of low light mode.it can overcome by night vision camera.</li>
+<li>As the change in behaviour and profile description of the bots are becoming more like a real account it sometimes fails to detect the bot.</li>
 
